@@ -31,7 +31,7 @@ const FooterContainer = styled.footer`
 const Footer = () => (
   <FooterContainer>
     <img src={Logo} alt="logo" />
-    <a href="https://brittanychiang.com">Made by Brittany Chiang</a>
+    <a href="https://brittanychiang.com">Made by uvacoder Brittany Chiang</a>
   </FooterContainer>
 );
 
